@@ -17,7 +17,7 @@ def hopper
      }
    end 
       
-hopper(programmer_hash.fetch[:grace_hopper])
+hopper(programmer_hash[:grace_hopper])
 
 
 
