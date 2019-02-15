@@ -17,7 +17,7 @@ def hopper
      }
    end 
       
-puts hopper
+puts hopper[0]
 
 
 
