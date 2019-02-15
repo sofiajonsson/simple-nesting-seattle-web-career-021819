@@ -1,5 +1,5 @@
 
-def hopper()
+def hopper
 	programmer_hash = 
  		{
         :grace_hopper => {
@@ -17,7 +17,7 @@ def hopper()
      }
    end 
       
-hopper(programmer_hash)
+hopper.fetch(:grace_hopper)
 
 
 
