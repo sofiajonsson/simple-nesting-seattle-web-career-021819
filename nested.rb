@@ -81,7 +81,7 @@ def adding_matz
           :languages => ["C"]
         }
      }
-adding_matz[programmer_hash]= [:yukihiro_matsumoto]
+programmer_hash.merge =>
 end
 
 def changing_alan
