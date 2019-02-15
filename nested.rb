@@ -122,7 +122,5 @@ def adding_to_dennis
           :known_for => "Unix",
           :languages => ["C"]
         }
-        
-     puts adding_to_dennis[:dennis_ritchie]= "Assembly"
 }
 end 
