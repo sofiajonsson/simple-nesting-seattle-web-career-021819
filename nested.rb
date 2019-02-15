@@ -17,7 +17,7 @@ def hopper
      }
    end 
       
-hopper.fetch(:grace_hopper)
+hopper.fetch(:grace_hopper[0])
 
 
 
